@@ -94,7 +94,7 @@ header {
   border-radius: 10px; 
 }
 
-#sophmore{
+#sophomore{
   background-color: #ffd1e6;
   opacity: .9;
   margin: 70px;
@@ -173,7 +173,7 @@ footer {
   text-align: center;
 }
 
-.container1:hover .junior, .junior2, .sophmore, .sophmore2, . .senior, .senior2, .senior3, .senior4, .senior5, .senior6, .senior7, .senior8 {
+.container1:hover .junior, .junior2, .sophomore, .sophomore2, . .senior, .senior2, .senior3, .senior4, .senior5, .senior6, .senior7, .senior8 {
   opacity: 0.3;
 }
 
