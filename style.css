@@ -102,13 +102,22 @@ header {
   border-radius: 10px; 
 }
 
-#contact, #domain1{
+#contact{
   background-color: #ffd1e6;
   opacity: .9;
   margin: 70px;
   color: #000000;
   border-radius: 10px; 
 }
+
+#domain1{
+  background-color: #ffd1e6;
+  opacity: .9;
+  margin: 70px;
+  color: #050505;
+  border-radius: 10px; 
+}
+
 .tagline {
     font-size: 1.2em;
 }
