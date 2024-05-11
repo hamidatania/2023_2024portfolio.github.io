@@ -9,6 +9,13 @@ p {
 a {
     text-decoration:none;
 }
+
+figcaption {
+    color: navy;
+    font-weight: bold;
+    background-color: aqua;
+}
+
 a:hover {
     text-decoration:underline;
     font-weight:bold;
